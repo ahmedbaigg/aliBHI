@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "acorezero.qzz.io",
-    "port": 20544,
+    "ip": "raven2.play.hosting",
+    "port": 0,
     "version": "1.20.1",
     "try-creative": false
   },
