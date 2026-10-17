@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "raven2.play.hosting",
+    "ip": "mc-raven.play.hosting",
     "port": 0,
     "version": "1.20.1",
     "try-creative": false
